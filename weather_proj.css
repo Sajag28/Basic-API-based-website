@@ -1,0 +1,214 @@
+body{
+    background-image: url(https://www.sundayobserver.lk/sites/default/files/styles/large/public/news/2021/02/12/fair%20weather.jpg?itok=QOAy8jJZ);
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-x:hidden;
+}
+nav{
+    position:absolute;
+    top:0px;
+    left:500px;
+    right:5px;
+    bottom:10px;
+    height:100px;
+    width:800px;
+    background-color: rgba(22, 127, 212, 0.763);
+    opacity:0.6;
+}
+.u_tab{
+    display:flex;
+    justify-content:center;
+    gap:80px;
+}
+.but{
+    height:80px;
+    width:100px;
+    cursor:pointer;
+    
+}
+.b1{
+    border-radius:2px;
+
+    background-color: rgba(233 , 144, 10, 0.888);
+    opacity:0.9;
+    color: black;
+}
+.b2{
+    border-radius:2px;
+    background-color: rgba(233 , 144, 10, 0.888);
+    opacity:0.9;
+    color: black;
+}
+.b3{
+    border-radius:2px;
+    background-color: rgba(233 , 144, 10, 0.888);
+    opacity:0.9;
+    color: black;;
+}
+.b4{
+    width:106px;
+    border-radius:2px;
+    background-color: rgba(233 , 144, 10, 0.888);
+    opacity:0.9;
+    color: black;;
+}
+p{
+    font-size: 15px;
+    font-variant: small-caps;
+    text-decoration: dotted;
+}
+.main{
+    font-size:65px;
+    position:relative;
+    top:40px;
+    left:110px;
+    color: black;
+    font-variant: small-caps;
+}
+.sub{
+    position:relative;
+    top:0px;
+    left:20px;
+    font-size:30px;
+    color:orange;
+    font-variant: small-caps;
+}
+.word{
+    position:relative;
+    top:170px;
+    left:75px;
+    
+}
+.word1{
+    position:relative;
+    top:60px;
+    left:0px;
+    /* background-color: rgba(11, 108, 187, 0.836);
+    opacity:0.8; */
+}
+.side1{
+    height:40px;
+    width:980px;
+    position:relative;
+    top:75px;
+    left:80px;
+    background-color: black;
+    opacity:0.7;
+}
+.side2{
+    position:relative;
+    top:0px;
+    left:270px;
+    background-color: black;
+    height:40px;
+    width:300px;
+}
+.sub1{
+    position:relative;
+    top:0px;
+    left:30px;
+    
+    font-size: 30px;
+    font-variant:small-caps;
+    
+}
+.caro{
+    position:relative;
+    top:500px;
+    left:130px;
+    height:850px;
+    width:1000px;
+}
+#area1{
+    border-radius:15px;
+    position:relative;
+    background-color:rgb(10, 85, 198);
+    opacity:0.8;
+    top:350px;
+    left:180px;
+    height:500px;
+    width: 900px;
+    box-shadow: 0 80px 80px 0 rgba(27, 21, 217, 0.788), 0 80px 80px 0 rgba(19, 103, 212, 0.888);
+    text-align: center;
+}
+.test1{
+    position:relative;
+    top:30px;
+    left:80px;
+}
+.test2{
+    position:relative;
+    top:30px;
+    left:50px;
+    height:80px;
+    width:600px;
+    background-color: black;
+    opacity:0.9;
+    z-index: 1;
+}
+.state{
+    position:relative;
+    top:10px;
+    left:0px;
+    font-size:25px;
+    font-variant:small-caps;
+    color: Orange;
+    opacity:0.9;
+    
+
+}
+.hbt{
+    position:relative;
+    top:80px;
+    left:-100px;
+    border-radius:10px;
+    background-color:orange;
+}
+.ht{
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+#ar1{
+    position:relative;
+    top:150px;
+    left:30px;
+}
+.state1{
+      position:relative;
+      top:130px;
+      left:50px;
+      height:80px;
+      width:600px;
+      background-color: black;
+      opacity:0.9;
+      z-index: 1;
+}
+
+.state2{
+    position:relative;
+    top:10px;
+    left:0px;
+    font-size:25px;
+    font-variant:small-caps;
+    color: Orange;
+    opacity:0.9;
+}
+.hbt1:hover{
+    background-color:black;
+    color:orange;
+}
+.hbt1{
+    position:relative;
+    top:160px;
+    left:-100px;
+    border-radius:10px;
+    background-color:orange;
+}
+.ht1{
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+.hbt:hover{
+    background-color:black;
+    color:orange;
+}
